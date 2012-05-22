@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/subversion/!svn/ver/39/lrx/intranetLRX/controllers
+END
+private.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/subversion/!svn/ver/56/lrx/intranetLRX/controllers/private.py
+END
+inventario.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/!svn/ver/66/lrx/intranetLRX/controllers/inventario.py
+END
+categorias.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/!svn/ver/66/lrx/intranetLRX/controllers/categorias.py
+END
+relatorios.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/subversion/!svn/ver/66/lrx/intranetLRX/controllers/relatorios.py
+END
+default.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/subversion/!svn/ver/39/lrx/intranetLRX/controllers/default.py
+END
+appadmin.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/subversion/!svn/ver/36/lrx/intranetLRX/controllers/appadmin.py
+END
+arquivos.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/subversion/!svn/ver/68/lrx/intranetLRX/controllers/arquivos.py
+END

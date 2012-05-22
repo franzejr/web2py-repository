@@ -1,0 +1,4 @@
+{{extend 'layout.html' }}
+
+<h2>Inserir Inventário</h2>
+{{=inventarioform}}

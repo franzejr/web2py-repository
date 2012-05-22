@@ -1,0 +1,5 @@
+{{extend 'layout.html'}}
+
+<h2>Gerenciar Categorias dos Arquivos</h2>
+
+<p>{{=form}}</p>

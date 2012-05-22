@@ -1,0 +1,4 @@
+{{extend 'layout.html'}}
+
+<h3>Intranet do Grupo de Pesquisa Raios-X</h3>
+<h4>Universidade Federal do Ceará</h4>

@@ -1,0 +1,27 @@
+{{extend 'layout.html' }}
+
+<h2>Arquivos</h2>
+
+{{if len(records) == 0:}}
+	<h5>Nenhum arquivo cadastrado</h5>
+{{else:}}
+	<table id="list">
+		<thead>
+			<tr>
+				<th>Nome</th>
+				<th>Categoria</th>
+			</tr>
+		</thead>
+		<tbody>
+			{{for tupla in records:}}
+			<tr>
+				<td>{{=tupla.nome}}</td>
+				<td>{{=tupla.categoria.nome}}</td>
+				<td><a href="./visualizar/{{=tupla.id}}">Ver</a></td>
+			</tr>
+		</tbody>
+	
+	</table>
+{{pass}}
+
+{{pass}}

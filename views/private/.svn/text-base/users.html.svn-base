@@ -1,0 +1,14 @@
+{{extend 'layout.html'}}
+
+<h4>Gerência dos Usuários</h4>
+
+<fieldset>
+<legend>Registration Key</legend>
+<ul>
+	<li>Registration Key = pending indica que o usuário ainda não foi aceito no sistema</li>
+	<li>Registration Key vazio indica que o usuário está aceito no sistema</li>
+</ul>
+</fieldset>
+
+<p>Assim que os usuários pedem para entrar no sistema, eles só serão aceitos se nós modificarmos o Registration Key dele. </p>
+{{=form}}
