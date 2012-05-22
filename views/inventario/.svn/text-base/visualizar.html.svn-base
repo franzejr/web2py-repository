@@ -1,6 +1,0 @@
-{{extend 'layout.html' }}
-
-<div id="viewer">
-	<label>Nome:</label> <div class="title">{{=inventario.nome}}</div>
-	<label>Descrição:</label> <div class="textarea">{{=inventario.descricao}}</div>
-</div>

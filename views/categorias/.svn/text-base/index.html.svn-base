@@ -1,6 +1,0 @@
-{{extend 'layout.html'}}
-<h3>Gerenciamento das Categorias</h3>
-<ul>
-	<li><a href="{{=URL('categorias','gerenciar_arquivos')}}" >Arquivos</a></li>
-	<li><a href="{{=URL('categorias','gerenciar_inventario')}}" >Inventário</a></li>
-</ul>

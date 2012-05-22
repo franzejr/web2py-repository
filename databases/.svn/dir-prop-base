@@ -1,8 +1,0 @@
-K 10
-svn:ignore
-V 84
-c8b669d15150d7109e5f7ab36744a5b7_arquivos_categorias_archive.table
-*.table
-*.sqlite
-
-END

@@ -1,5 +1,0 @@
-{{extend 'layout.html'}}
-
-<h2>Gerenciar Categorias dos Inventários</h2>
-
-<p>{{=form}}</p>
